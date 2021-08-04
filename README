@@ -1,0 +1,13 @@
+Readme: 
+
+El archivo ejecutable en orchestrator.py (ir hasta la carpeta src y ejecutar)
+
+Existen 4 folder data,conf,src,output ( en caso de que no exista output se crea con el script)
+
+El archivo de "configuracion", el json con los requerimientos, se encuentra en la carpeta config, en caso de querer hacer alguna prueba que tenga, como cambiar el nombre del empty, los calculos o el hot_encode, realizarlo alli. 
+
+No cuenta con demasiado control sobre error en el archivo json, se asume que se conoce que campos se quiere trabajar, pero igualmente algo de control hay.
+
+La salida tambien genera un csv para un control mas rapido :) 
+
+Gracias y Hasta pronto 
